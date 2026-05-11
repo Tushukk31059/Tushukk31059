@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am Tushar Kaul.
 
 # 💫 About Me:
 🔭 Building mobile + web projects<br>👯 Open to collaborating on Flutter/full-stack ideas<br>🤝 Need help mastering backend scaling<br>🌱 Learning advanced flutter, android & firebase<br>💬 Ask me about Flutter, Kotlin, deployment<br>⚡ I prefer building projects over collecting certificates
