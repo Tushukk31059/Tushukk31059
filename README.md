@@ -6,7 +6,7 @@
 🚀 Creative Android Developer
 
 </td>
-<td align="right" width="50%">
+<td align="right" width="100%">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tushukk31059&label=Profile%20views&color=0e75b6&style=flat)
 
