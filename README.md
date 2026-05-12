@@ -1,5 +1,5 @@
-<div style="display:grid; grid-template-columns:1fr 1fr;">
-<div>
+<div style="display:grid; grid-template-columns:1fr 1fr;" >
+<div align="left">
 
 ## Hi there 👋, I am Tushar Kaul.
 🚀 Creative Android Developer 
