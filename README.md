@@ -1,10 +1,16 @@
+<div style="display:grid; grid-template-columns:1fr 1fr;">
+<div>
+
 ## Hi there 👋, I am Tushar Kaul.
+🚀 Creative Android Developer 
+</div>
 <div align="right">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tushukk31059&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
-🚀 Creative Android Developer 
+</div>
+
 
 
 
