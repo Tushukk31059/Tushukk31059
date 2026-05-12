@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td align="left">
+<td align="left" width="100%">
 
 ## Hi there 👋, I am Tushar Kaul.
 🚀 Creative Android Developer
