@@ -3,7 +3,8 @@
 <td align="left">
 
 ## Hi there 👋, I am Tushar Kaul.
-🚀 Creative Android Developer
+🚀 Your next favorite app? I'm probably coding it right now.
+
 
 </td>
 
