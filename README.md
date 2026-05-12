@@ -24,6 +24,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Tushukk31059&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Tushukk31059&icon=0&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
